@@ -51,7 +51,7 @@ Paint Factory je intuitivni program za crtanje i uređivanje vektorskih objekata
   
   ![Paint Factory Demo](res/pf.gif)
 
-  ![Drawing of a smile.](res/smile.png)
+  ![Drawing of a smile.](smile.png)
   _Drawing of a smiley face in Paint Factory./Crtanje smješka u Paint Factory-u._
 
 ---
