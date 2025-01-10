@@ -1,6 +1,6 @@
 # Paint Factory
 
-![Paint Factory Logo](res/PaintLogo565.png)
+<img src="res/PaintLogo565.png" alt="Paint Factory Logo" width="200" />
 
 ## Overview
 Paint Factory is an intuitive drawing program designed for creating and editing vector objects such as lines, rectangles, and circles. With its simple and powerful tools, it’s perfect for quick sketches, technical diagrams, and creative projects.
@@ -51,7 +51,7 @@ Paint Factory je intuitivni program za crtanje i uređivanje vektorskih objekata
   
   ![Paint Factory Demo](res/pf.gif)
 
-  ![Drawing of a smile.](smile.png)
+  ![Drawing of a smile.](scrn.png)
   _Drawing of a smiley face in Paint Factory./Crtanje smješka u Paint Factory-u._
 
 ---
