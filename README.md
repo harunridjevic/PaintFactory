@@ -1,7 +1,7 @@
 # Paint Factory
 
 <p align="center">
-   <img src="res/PaintLogo565.png" alt="Paint Factory Logo" width="200" />
+   <img src="res/PaintLogo565.png" alt="Paint Factory Logo" width="300" />
 </p>
 
 ## Overview
