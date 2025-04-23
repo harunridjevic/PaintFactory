@@ -1,6 +1,8 @@
 # Paint Factory
 
-<img src="res/PaintLogo565.png" alt="Paint Factory Logo" width="200" />
+<p align="center">
+   <img src="res/PaintLogo565.png" alt="Paint Factory Logo" width="200" />
+</p>
 
 ## Overview
 Paint Factory is an intuitive drawing program designed for creating and editing vector objects such as lines, rectangles, and circles. With its simple and powerful tools, it’s perfect for quick sketches, technical diagrams, and creative projects.
